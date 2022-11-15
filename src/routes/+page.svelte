@@ -5,15 +5,15 @@
 </script>
 
 <main class="">
-	<div class="lg:flex  pb-10">
+	<div class="lg:flex  lg:pb-10">
 		<Sidebar/>
-		<div class="flex flex-col">
-			<div class="bg-white shadow-lg rounded-xl w-full lg:w-[840px] h-[100px] hidden md:block mt-[200px] ml-10 border  ">
-				<ul class="flex   justify-center gap-10 px-4 items-center py-3 ">
+		<div class="flex flex-col px-4">
+			<div class="bg-white shadow-lg rounded-xl w-full lg:w-[840px] h-[100px] hidden lg:block lg:mt-[200px] lg:ml-10 border ">
+				<ul class="flex   justify-center lg:gap-10 px-4 items-center py-3">
 					<li
 						class=" hover:font-bold w-[130px] h-20 flex justify-center items-center rounded-2xl text-base bg-[#2F4858] text-white cursor-pointer transition-all duration-300 ease-in-out"
 					>
-						Aboutdddd
+						About
 					</li>
 					<li
 						class=" hover:font-bold w-[130px] h-20 flex justify-center items-center rounded-2xl text-base hover:bg-[#2F4858] hover:text-white cursor-pointer transition-all duration-300 ease-in-out"
@@ -38,27 +38,27 @@
 				</ul>
 			</div>
 			<div
-				class="bg-white shadow-lg rounded-xl lg:w-[840px]  mt-10 scroll-mt-12 lg:ml-10 border flex-wrap"
+				class="bg-white shadow-lg rounded-xl lg:w-[840px] px-4   lg:mt-12 lg:ml-10 border lg:flex-wrap"
 			>
-				<h1 class="text-5xl text-black font-bold mt-10 ml-10">About Me</h1>
-				<p class="text-gray-600 text-base px-10 mt-5">
+				<h1 class="text-5xl text-black font-bold mt-10 ">About Me</h1>
+				<p class="text-gray-600 text-base  mt-5">
 					I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web
 					development and print media. I enjoy turning complex problems into simple, beautiful and
 					intuitive designs. My aim is to bring across your message and identity in the most
 					creative way. I created web design for many famous brand companies.
 				</p>
-				<h1 class="text-2xl text-black font-semibold mt-10 ml-10">What I do!</h1>
-				<p class="text-gray-600 text-base px-10 mt-5">
+				<h1 class="text-2xl text-black font-semibold mt-10 ">What I do!</h1>
+				<p class="text-gray-600 text-base  mt-5">
 					My aim is to bring across your message and identity in the most creative way. I created
 					web design for many famous brand companies.
 				</p>
-				<div class="grid lg:grid-cols-2  px-4 md:pb-10 mt-5 place-items-center gap-5">
-					<div class="md:w-[348px]  w-full h-[185px] border rounded-xl bg-yellow-100">Ui/Ux Design</div>
-					<div class="md:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">App Development</div>
-					<div  class="md:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">Photography</div>
-					<div  class="md:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">Photography</div>
-					<div  class="md:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">Managment</div>
-					<div  class="md:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">Web Development</div>
+				<div class="grid lg:grid-cols-2   md:pb-10 mt-5 place-items-center gap-5">
+					<div class="lg:w-[348px]  w-full h-[185px] border rounded-xl bg-yellow-100">Ui/Ux Design</div>
+					<div class="lg:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">App Development</div>
+					<div  class="lg:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">Photography</div>
+					<div  class="lg:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">Photography</div>
+					<div  class="lg:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">Managment</div>
+					<div  class="lg:w-[348px] w-full h-[185px] border rounded-xl bg-yellow-100">Web Development</div>
 				</div>
 			</div>
 		</div>
