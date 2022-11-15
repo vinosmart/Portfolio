@@ -84,7 +84,6 @@
 						<h1 class="text-[#2F4858]/80  text-sm lg:text-base">05 Mar 1996</h1>
 					</div>
 				</div>
-				
 			</div>
 		</div>
 		<div class="flex justify-center">
