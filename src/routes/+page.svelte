@@ -5,15 +5,15 @@
 </script>
 
 <main class="">
-	<div class="md:flex  pb-10">
+	<div class="lg:flex  pb-10">
 		<Sidebar/>
 		<div class="flex flex-col">
-			<div class="bg-white shadow-lg rounded-xl w-[840px] h-[100px] hidden md:block mt-[200px] ml-10 border  ">
+			<div class="bg-white shadow-lg rounded-xl w-full lg:w-[840px] h-[100px] hidden md:block mt-[200px] ml-10 border  ">
 				<ul class="flex   justify-center gap-10 px-4 items-center py-3 ">
 					<li
 						class=" hover:font-bold w-[130px] h-20 flex justify-center items-center rounded-2xl text-base bg-[#2F4858] text-white cursor-pointer transition-all duration-300 ease-in-out"
 					>
-						About
+						Aboutdddd
 					</li>
 					<li
 						class=" hover:font-bold w-[130px] h-20 flex justify-center items-center rounded-2xl text-base hover:bg-[#2F4858] hover:text-white cursor-pointer transition-all duration-300 ease-in-out"
@@ -38,7 +38,7 @@
 				</ul>
 			</div>
 			<div
-				class="bg-white shadow-lg rounded-xl md:w-[840px]  mt-10 scroll-mt-12 lg:ml-10 border flex-wrap"
+				class="bg-white shadow-lg rounded-xl lg:w-[840px]  mt-10 scroll-mt-12 lg:ml-10 border flex-wrap"
 			>
 				<h1 class="text-5xl text-black font-bold mt-10 ml-10">About Me</h1>
 				<p class="text-gray-600 text-base px-10 mt-5">
