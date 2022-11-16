@@ -6,7 +6,7 @@
 <main class="">
 	<div class="bg-white w-full pb-10 lg:hidden  ">Nav</div>
 	<div
-		class="lg:w-[400px] h-[720px] flex flex-col items-center lg:ml-[312px] lg:mt-[200px] lg:pb-20  w-full  lg:mb-0 mx-auto relative md:bg-[#2F4858]/10 lg:bg-white text-center lg:border px- lg:rounded-[20px] mt-64"
+		class="lg:w-[400px] h-[720px] flex flex-col items-center lg:ml-[10px] xl:ml-[312px] lg:mt-[200px] lg:pb-20  w-full  lg:mb-0 mx-auto relative md:bg-[#2F4858]/10 lg:bg-white text-center lg:border px- lg:rounded-[20px] mt-64"
 	>
 	
 		<div>
@@ -91,7 +91,7 @@
 		<div class="flex justify-center">
 			<a href="/profile.jpg"
 				><button
-					class="rounded-full lg:px-8 px-16 py-6 lg:py-3 text-lg md:text-[#2F4858] text-white border-2 items-center flex mt-32 lg:mt-10 bg-yellow-500"
+					class="rounded-full lg:px-8 px-16 py-6 	 lg:py-3 text-lg md:text-[#2F4858] text-white border-2 items-center flex mt-32 lg:mt-10 bg-yellow-500"
 				>
 					<img src="/fa_download.svg" class="w-4 h-4  mr-4 " alt="" /> Download CV</button
 				></a
