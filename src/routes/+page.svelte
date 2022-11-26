@@ -7,7 +7,7 @@
 	
 		<div class="flex flex-col ">
 			<div
-				class="bg-white shadow-lg rounded-xl w-full lg:w-[840px] h-[100px] hidden lg:block lg:mt-[200px] lg:ml-10 border "
+				class="  shadow-lg rounded-xl w-full lg:w-[840px] h-[100px] hidden lg:block lg:mt-[200px] lg:ml-10 border "
 			>
 				<ul class="flex   justify-center lg:gap-10 px-4 items-center py-3">
 					<li
@@ -17,7 +17,7 @@
 					</li>
 					<a href="../resume">
 					<li
-						class=" hover:font-bold w-[130px] h-20 flex justify-center items-center rounded-2xl text-base hover:bg-[#2F4858] hover:text-white cursor-pointer transition-all duration-300 ease-in-out"
+						class=" hover:font-bold w-[130px] h-20 flex justify-center items-center rounded-2xl text-base focus:font-bold hover:bg-[#2F4858] hover:text-white cursor-pointer transition-all duration-300 ease-in-out"
 					>
 						Resume
 					</li>
@@ -42,9 +42,9 @@
 				</ul>
 			</div>
 			<div
-				class="bg-white shadow-lg rounded-xl lg:w-[840px] px-4    lg:mt-12 lg:ml-10 border lg:flex-wrap"
+				class= "bg-[#2F4858]  md:bg-white shadow-lg rounded lg:w-[840px] px-4    lg:mt-12 lg:ml-10 border lg:flex-wrap"
 			>
-				<h1 class="text-5xl text-black font-bold mt-10 lg:px-7 ">About Me</h1>
+				<h1 class="text-5xl text-black font-bold mt-10 lg:px-7 ">About dMe</h1>
 				<p class="text-gray-600 text-base  mt-5 lg:px-7">
 					I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web
 					development and print media. I enjoy turning complex problems into simple, beautiful and

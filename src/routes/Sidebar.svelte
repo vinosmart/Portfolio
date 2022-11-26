@@ -4,7 +4,7 @@
 </script>
 
 <main class="">
-	<div class="bg-white w-full pb-10 lg:hidden  ">Nav</div>
+	<div class="bg-gray-800 w-full pb-10 lg:hidden  ">Nav</div>
 	<div
 		class="lg:w-[400px] h-[720px] flex flex-col items-center lg:ml-[10px] xl:ml-[312px] lg:mt-[200px] lg:pb-20  w-full  lg:mb-0 mx-auto relative md:bg-[#2F4858]/10 lg:bg-white text-center lg:border px- lg:rounded-[20px] mt-64"
 	>

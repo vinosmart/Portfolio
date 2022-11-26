@@ -5,9 +5,9 @@
     <ul class="flex   justify-center lg:gap-10 px-4 items-center py-3">
         <a href="./">
         <li
-            class=" hover:font-bold w-[130px] h-20 flex justify-center items-center rounded-2xl text-base  text-black cursor-pointer transition-all duration-300 ease-in-out"
+        class=" hover:font-bold w-[130px] h-20 flex justify-center items-center rounded-2xl text-base hover:bg-[#2F4858]  text-black cursor-pointer transition-all duration-300 ease-in-out"
         >
-            About
+        <i class="fa-solid fa-user"></i>     About
         </li>
     </a>
         <a href="../resume">
@@ -35,17 +35,17 @@
     </ul>
 </div>
 <div
-class="bg-white shadow-lg rounded-xl lg:w-[840px] px-4    lg:mt-12 lg:ml-10 border lg:flex-wrap"
+class=" bg-[#2F4858] text-white md:bg-white shadow-lg rounded-xl lg:w-[840px] px-4    lg:mt-12 lg:ml-10 border lg:flex-wrap"
 >
-<h1 class="text-5xl text-black font-bold mt-10 lg:px-7 ">About Me</h1>
-<p class="text-gray-600 text-base  mt-5 lg:px-7">
+<h1 class="text-5xl md:text-black font-bold mt-10 lg:px-7 ">About Me</h1>
+<p class="md:text-gray-600 text-base  mt-5 lg:px-7">
     I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web
     development and print media. I enjoy turning complex problems into simple, beautiful and
     intuitive designs. My aim is to bring across your message and identity in the most
     creative way. I created web design for many famous brand companies.
 </p>
-<h1 class="text-2xl text-black font-semibold mt-10  lg:px-7">What I do!</h1>
-<p class="text-gray-600 text-base  mt-5 lg:px-7">
+<h1 class="text-2xl md:text-black font-semibold mt-10  lg:px-7">What I do!</h1>
+<p class="md:text-gray-600 text-base  mt-5 lg:px-7">
     My aim is to bring across your message and identity in the most creative way. I created
     web design for many famous brand companies. Lorem ipsum dolor sit amet consectetur
     adipisicing elit. Asperiores quasi voluptatibus consectetur quos corporis nemo. Quibusdam,

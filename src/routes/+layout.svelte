@@ -8,7 +8,7 @@
 
 <div class="app">
 	
-	<main class="flex bg-[#2F4858]/95 w-full">
+	<main class="  md:flex bg-[#2F4858]/95 w-full">
 		<Sidebar />
 
 		<slot />
