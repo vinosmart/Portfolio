@@ -4,7 +4,7 @@
       <div>
         <div class="img-container">
           <!-- <div
-            class="flex items-center justify-center w-14 h-14 lg:w-16 lg:h-16 rounded-full bg-indigo-50"
+            class="flex items-center justify-center rounded-full w-14 h-14 lg:w-16 lg:h-16 bg-indigo-50"
           >
             <UserIcon class="w-9 h-9 lg:w-10 lg:h-10" />
           </div> -->
@@ -39,11 +39,13 @@
             </p>
           </div>
           <div>
-            <a href="mailto:poyizhi@gmail.com"> <EnvelopeIcon /> Say Hello! </a>
+            <a href="mailto:pavinoth00@gmail.com">
+              <EnvelopeIcon /> Say Hello!
+            </a>
             <a
               v-if="isSeeking"
               href="/resume/my-resume.pdf"
-              download="resume_poyizhi"
+              download="Vinothkumar"
               target="_blank"
             >
               <PaperClipIcon /> My Resume
