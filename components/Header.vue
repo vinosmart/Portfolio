@@ -15,7 +15,7 @@
       <div v-for="rectang in columns" :key="rectang" :style="rectang"></div>
       <img
         :class="showBgImg ? 'opacity-100' : 'opacity-0'"
-        src="/red-blue.jpg"
+        src="/bg-img.jpg"
         width="1920"
         height="1280"
         alt="blue red fusion"
