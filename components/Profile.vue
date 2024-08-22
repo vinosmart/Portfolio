@@ -12,7 +12,7 @@
     </div>
     <article class="mt-3">
       <h1>Vinothkumar</h1>
-      <p class="text-center lg:text-left">Software Developer</p>
+      <p class="text-center lg:text-left">Frontend developer</p>
 
       <div class="profile-social-icons">
         <a

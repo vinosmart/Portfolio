@@ -11,7 +11,7 @@ const jsonLd = {
   description:
     "Personal Portfolio Website. Hi, I am Vinothkumar. I'm a Front-End Web Developer based in Kuala Lumpur, Malaysia. Currently focused on developing website using Vue and React. Checkout my projects and github repositories",
   keywords:
-    "Web Developer, Front End Developer, Frontend Developer, Junior Web Developer, Software Developer, Software Engineer, Vinothkumar, Yi Zhi, eazypau, Malaysia",
+    "Web Developer, Front End Developer, Frontend Developer, Junior Web Developer, Frontend developer, Software Engineer, Vinothkumar, Yi Zhi, eazypau, Malaysia",
   image: "https://www.eazypau.com/profile-pics/profile.webp",
 };
 const personJson = {

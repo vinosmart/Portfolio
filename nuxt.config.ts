@@ -23,7 +23,7 @@ export default defineNuxtConfig({
         {
           name: "keywords",
           content:
-            "Web Developer, Front End Developer, Frontend Developer, Junior Web Developer, Software Developer, Software Engineer, Vinothkumar, Yi Zhi, eazypau, Malaysia",
+            "Web Developer, Front End Developer, Frontend Developer, Junior Web Developer, Frontend developer, Software Engineer, Vinothkumar, Yi Zhi, eazypau, Malaysia",
         },
         // social meta tags
         {

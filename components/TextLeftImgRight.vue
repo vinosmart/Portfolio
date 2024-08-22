@@ -89,7 +89,7 @@
               mechanical engineering (graduated from Surya group of
               institutions). After discovering my passion for web development, I
               made a career change and became a frontend web developer.
-              Currently working as a Software Developer in
+              Currently working as a Frontend developer in
               <a
                 class="font-bold text-red-600 dark:text-red-300 hover:underline"
                 href="https://jagasolution.com/jagaapp/"

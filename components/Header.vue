@@ -23,11 +23,11 @@
     </TransitionGroup>
     <div class="content" :class="showContent ? 'opacity-100' : 'opacity-0'">
       <h1 class="leading-3">
-        <span class="text-4xl md:text-5xl font-semibold">{{
+        <span class="text-4xl font-semibold md:text-5xl">{{
           introObj.lineOne
         }}</span>
         <br />
-        <span class="text-2xl md:text-3xl font-medium">{{
+        <span class="text-2xl font-medium md:text-3xl">{{
           introObj.lineTwo
         }}</span>
         <br />
@@ -63,7 +63,7 @@ const introObj = ref({
 });
 const intro = [
   "Vinothkumar",
-  "Software Developer in RISB",
+  "Frontend Developer",
   "I specialise in building web app that helps to solve real world challenges.",
 ];
 
